@@ -1,4 +1,4 @@
-% Create colour map and set range of temperatures to plot
+% Create colour map and set range of heights to plot
 
 CMRmap = jet;
 
